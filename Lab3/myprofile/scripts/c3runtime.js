@@ -3083,6 +3083,7 @@ value){switch(index){case ENABLE:this.SetEnabled(value);break}}GetDebuggerProper
 		{Touch: 0},
 		{play: 0},
 		{Sprite8: 0},
+		{Sprite9: 0},
 		{work: 0}
 	];
 }
