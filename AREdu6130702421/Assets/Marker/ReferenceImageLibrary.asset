@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4949744240680765950
+  m_GuidHigh: 3245680499484093867
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4939823062399742393
+      m_GuidHigh: 18230046479324084117
+    m_SerializedTextureGuid:
+      m_GuidLow: 9531666155226376300
+      m_GuidHigh: 12163210539091715960
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: panda
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5077536566222727009
+      m_GuidHigh: 1185011832458951329
+    m_SerializedTextureGuid:
+      m_GuidLow: 6115803116421899769
+      m_GuidHigh: 1594669455203428107
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: chicken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5111393692984697401
+      m_GuidHigh: 3196492994436688044
+    m_SerializedTextureGuid:
+      m_GuidLow: 8367736790902173582
+      m_GuidHigh: 68107432889670776
+    m_Size: {x: 1, y: 0.625}
+    m_SpecifySize: 1
+    m_Name: turtle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5266411995769593869
+      m_GuidHigh: 10913794314033190305
+    m_SerializedTextureGuid:
+      m_GuidLow: 12981894028802662559
+      m_GuidHigh: 6340523636262490056
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: rhino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4721404811187794215
+      m_GuidHigh: 16287482322345747132
+    m_SerializedTextureGuid:
+      m_GuidLow: 1454001399292989823
+      m_GuidHigh: 6905243069298095001
+    m_Size: {x: 1, y: 0.6625}
+    m_SpecifySize: 1
+    m_Name: kong
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5724726052720103159
+      m_GuidHigh: 12130933792197536447
+    m_SerializedTextureGuid:
+      m_GuidLow: 2665036374386080072
+      m_GuidHigh: 1986825662433021144
+    m_Size: {x: 1, y: 0.66625}
+    m_SpecifySize: 1
+    m_Name: zebra
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4786729735606288508
+      m_GuidHigh: 1349370265492225956
+    m_SerializedTextureGuid:
+      m_GuidLow: 3794938982841308296
+      m_GuidHigh: 6366481336337784553
+    m_Size: {x: 1, y: 0.6625}
+    m_SpecifySize: 1
+    m_Name: rat
+    m_Texture: {fileID: 0}
